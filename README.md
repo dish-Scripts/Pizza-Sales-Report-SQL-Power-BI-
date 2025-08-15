@@ -1,4 +1,3 @@
-Dashboard Preview
 Here is a preview of the final dashboard. You can also view the Live Interactive Dashboard here : "https://drive.google.com/file/d/1x_NnBn1yZ5lD2ySxJ40Bs-1hjwnz-3zP/view?usp=sharing"
 
 (Suggestion: Replace the image link above with a direct link to your dashboard screenshot in your GitHub repository for better performance).
