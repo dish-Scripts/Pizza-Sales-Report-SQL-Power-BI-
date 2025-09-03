@@ -1,3 +1,5 @@
+<img width="1028" height="580" alt="Screenshot 2025-09-04 at 5 21 45 AM" src="https://github.com/user-attachments/assets/b46f3d94-6aba-4836-bde8-61e37007a32b" />
+
 Here is a preview of the final dashboard. You can also view the Live Interactive Dashboard here : "https://drive.google.com/file/d/1x_NnBn1yZ5lD2ySxJ40Bs-1hjwnz-3zP/view?usp=sharing"
 
 (Suggestion: Replace the image link above with a direct link to your dashboard screenshot in your GitHub repository for better performance).
